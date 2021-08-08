@@ -1,0 +1,55 @@
+git is most widely used tool across all programming discipline and industries
+
+used to collabrated and maintain the large applications
+
+learn git and github and leave git
+
+use git github at all place. it is fundamental part of work.
+
+git is world most popular version control system
+
+version control system is software that tracks and manages changes to files over time.
+
+company not has single code base they have multiple files so they version control system to tracks and manages changes. vcs allow to revisit the files
+
+version control system allow to revisit earlier version of the files compare changes between version  undo changes and a whole lot more
+
+there are many version control system are available like subversion cvs and mercrial
+
+free and open sourxe version control' system to handle small to large projects
+
+track changes across multiple files 
+
+compare version of a projects (Time travel)
+
+revert to previous version collabrated and share changes combine changes
+
+collabrate and share changes is most important
+
+create checkpoint in massive codebase
+
+checkpoint like intialize projects add something finished something and so on in single project so we not habve create multipple files
+so we can go backward by checkpoint and create new checkpoint our previous work will be stored
+
+we can also combine changes
+
+linus torvalds is the founder of the git and linux linus torvalds want to create fast and open source version control system
+
+he created git while making linux operating system 95% of developer use git as version control system
+
+global information tracker GIT 
+
+who uses git
+1. Engineers and coders
+2. all big small company or individual projects use  git
+3. tech adjacent 
+4. goverments
+5. scientists and reserchers
+6. writers
+
+git github 
+
+git runs on computer or laptop not need any account download and use git runs without internet
+github take git repositories
+
+github is cloud type of service

@@ -1,0 +1,27 @@
+repository is a workspace which tracks and manages all files within a folder. whenever we want to use git we have to create or initialize new repository. without repository we can not track changes. so initialize git repository first.
+different repository means different histories.
+
+git log command to see all history
+
+git status command will give current status of the git repository if this is not repository then it will give warning or error that it is not a repository first initialize it is as repository. not a git repository
+
+always check it is a repository or not by typing git  status command
+
+remove .git folder to delete git repository
+
+ckeckpoint are known as commit we give that change name  it is known as commit.
+
+we can group different changes in one commit.
+
+working directory  git add command.
+staging area  git commit
+repository
+
+working directory to staging area with git add command
+staging area to repository with git commit command
+
+in git commit command sumersize changes so you can refers that what you have changed.
+
+summersize changes in that commit
+
+git commit -m message that summersize changes.
