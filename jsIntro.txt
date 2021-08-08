@@ -1,0 +1,23 @@
+javascript ecmascript es2018/17/16/15/5/6
+
+javascript is not controlled by only one organization like java by oracle by oracle
+
+javascript is controlled by all browsers by their own organization some new features will be available only in some browsers and internet explorer not support
+any new features. so javascript is made with c++ so it is different how they implement the javascript interface.
+
+ecma international is an industry association dedicated to the stardardization of information ans communication systems.Ecma is driven by the industry member to meet their needs providinng a healthy competitive landscape based on differtiation of products and services rathr than techonolgy models, generation co nfidance among vendoer and usrr of new techonology
+
+
+ecma is an international group that is responsible for different international standards not just for programming for all electrical machines and powers
+
+it is just discription that how languages should works
+
+it is resposibility of the browser to implement the rules of the ecma description
+
+ecma has ecmascript it is known as es or es14 or es16 and so batch update
+
+javascript run different in multiple browsers
+
+javascript is not single languages it is about 
+
+bunch of implementation of different specification by different browsers 

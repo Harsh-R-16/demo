@@ -1,0 +1,57 @@
+ls used to list all folder and file from current directory.
+we can also use relative paths to use ls. we can use all command for relative paths.
+touch command used for creating files with different extensions. create files in current directory.
+
+we can also use relative paths to crearte files like make filein this folder touch folder1/folder2/filename
+
+mkdir used to create folder make directory MKDIR
+
+when we have to creatge folder or file with space between name then we can use quote or \
+like touch "hars hhh.js" or touch hars \hh.js
+
+deleting files and folders.
+
+rm command used for deleting files rm is like remove.
+
+rm command remove file permanently. files not stored in the recycle bin so use this command carefully.
+
+pwd command used to print working directory.
+
+to delete folder we can use rm -r or rm -rf there are differnet flags are there.
+
+
+git repository is a workspace which tracks and manages files within a folder.
+
+every git repo has its own history of changes in the projects.we have to create a repository at every new projects
+
+--> core git commands.
+
+git status --> this commanf=d gives information on the current status of a git repository and its content
+status of current repository.
+
+git init command used to intialize new repository.
+
+git init will intiate new git repository where we are.
+
+git init will intiate new git repository. and create a new folder .git and it will be hidden in gui we can see only in terminal folder that start with dot is hidden folders.
+
+we ahve to write command ls -a (a for all ) to see the hidden folders.
+
+if we delete the .git folder than our all git history is gone. all the history is gone then we have to again create a new folder .git by git init command.
+
+only initiate new git repository for main folder not for sub folders. git will confused where to store the changes in .git folders.
+
+while creating or intializing new git repository first check the status of that repository by typing git status command if it say this is repository then not initialize new git repository.
+all checkpoint in git is known as Commit.
+we commit changes then that commit tag is used as name of changes
+
+commiting changes is not single stage process it is two stage process.
+first is git add and second is git commit.
+
+we can commit multiple change in single commit.
+
+working directory
+staging area
+repository
+
+

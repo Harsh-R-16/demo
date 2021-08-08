@@ -25,3 +25,7 @@ in git commit command sumersize changes so you can refers that what you have cha
 summersize changes in that commit
 
 git commit -m message that summersize changes.
+
+commit message should be meaning Full.
+
+git add . for adding all files for tracking.

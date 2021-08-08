@@ -1,0 +1,34 @@
+we can use git with two different types of interfaces
+
+1. graphical interface
+2. terminal interface
+
+but terminal interface is more used because it provides more functions.
+git is created for linux project so it is primarly a command-line tool. it is core of git and most popular.
+
+github is also available with gui interface their are many different interfaces are available but github desktop is mostly used.
+git gui is easy because it not include command-line interfaces but not give all functionality to user.
+https://git-scm.com/downloads/guis/ --> this are different options for git gui interface.
+
+git gui is easy to use better visual interface. friendly to use.
+
+but in command line interface more thing available advanced features are available.
+
+first of all we have confog git. when we are making change then git diffentiate different users from each other.
+
+in list we can see as AUTHOR who is making changes. nameand email is configered and also we can configure name and email again.
+
+git config user.name 
+git config user.email  to check is there already a username email is configed or not.
+
+git config --global user.name "Harsh Gajera"
+git config --global user.email "harsh.gajera17@gmail.com"
+
+git basic commands
+ls --> lists the contents of your current directory
+
+
+if you give command --> start . then it will open GUI for that directory.
+
+in same directory do ls and folder from current directory will open that folder
+start folder name to start that folder
