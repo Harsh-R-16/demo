@@ -29,3 +29,5 @@ git commit -m message that summersize changes.
 commit message should be meaning Full.
 
 git add . for adding all files for tracking.
+
+we have to use git ignore for ignoring files or some api key credrntials secrets log files large folders

@@ -1,0 +1,16 @@
+most important part in git is branching.
+branching in git is same as linked list.
+
+in git every commit has one unique hash. and each commit reference one parent commit so it is like linked list. alll node refernce one parent node.
+address of parent node is pointed by each commit. first commit has none parent.
+
+it is like linear commit one point to next one commit. 
+in real project many person working on same project so it is not possible to linear so we need braching .
+
+many person working on different featu then we need branching.
+
+we can not working on linear commit in same project so we need branching in project.
+
+we can work differently with branching. and also we can merge branches also.
+
+we always work on main or master branch.
