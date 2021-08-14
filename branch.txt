@@ -50,5 +50,13 @@ git switch <branch name> will switch to that branch name.
 
 git commit -a -m message command will add all and commit with message.
 
+git checkout <branch name> will also change the branch. same as git switch <branch name>
 
+we create branch and switch to that branch. git branch <branch name> git switch <branch name>.
 
+but we can also use git switch -c <branch name> to create branch and switch to that branch.
+
+git checkout -b <branch name> will also create and switch to that branch.
+
+git switch -c <branch name>.
+git chechout -b <branch name>.
