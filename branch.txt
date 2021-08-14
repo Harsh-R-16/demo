@@ -14,3 +14,16 @@ we can not working on linear commit in same project so we need branching in proj
 we can work differently with branching. and also we can merge branches also.
 
 we always work on main or master branch.
+master branch is default branch. it is not special branch. now default branch in GITHUB is not master but it is main branch. in git still master branch is default branch.
+
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+
+head is current location where we are working.
+head is refered to last commit in master branch.
+head is referd to last commit in current branch.
+head is like pointer.
+
+git branch command 
