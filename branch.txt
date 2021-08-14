@@ -42,5 +42,11 @@ we can use git switch < branch name> toi switch to the branch. head will point t
 
 we can not use space in branch naming.
 
+git branch --> list all branch in current git repository.
+git branch <branch name> will create branch in current git repository. it make branch not switch to that.
+git switch <branch name> will switch to that branch name.
+
+
+
 
 
