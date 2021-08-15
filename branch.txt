@@ -60,3 +60,5 @@ git checkout -b <branch name> will also create and switch to that branch.
 
 git switch -c <branch name>.
 git chechout -b <branch name>.
+
+before switching branch we have to commit our work in current branch.
