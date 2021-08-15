@@ -1,3 +1,5 @@
+--> first-branch
+
 most important part in git is branching.
 branching in git is same as linked list.
 
@@ -28,6 +30,7 @@ head is like pointer.
 
 git branch command 
 
+<<<<<<< HEAD
 we can not delete currenr branch. first we have to switch to onother branch and then delete that branch.
 
 git branch -d command for deleting branch. we can not delete current branch. but if we use git branch -D command then we can delete current branch also its force delete branch command.
@@ -35,3 +38,37 @@ git branch -d command for deleting branch. we can not delete current branch. but
 git branch -m command for renaming branch. m stand for move.
 
 we can only rename current branch. 
+=======
+will list all branch in current git repository. * this symbol  will be with current branch.
+
+$ git branch
+* master --> like this.
+
+create branch..
+
+git branch                command will list all branch in current git repository
+git branch <branch name>  will create branch in current git repository. it make branch not switch to that branch we  will be on current branch.
+
+we can use git switch < branch name> toi switch to the branch. head will point this branch.
+
+we can not use space in branch naming.
+
+git branch --> list all branch in current git repository.
+git branch <branch name> will create branch in current git repository. it make branch not switch to that.
+git switch <branch name> will switch to that branch name.
+
+git commit -a -m message command will add all and commit with message.
+
+git checkout <branch name> will also change the branch. same as git switch <branch name>
+
+we create branch and switch to that branch. git branch <branch name> git switch <branch name>.
+
+but we can also use git switch -c <branch name> to create branch and switch to that branch.
+
+git checkout -b <branch name> will also create and switch to that branch.
+
+git switch -c <branch name>.
+git chechout -b <branch name>.
+
+before switching branch we have to commit our work in current branch.
+>>>>>>> del2

@@ -1,0 +1,12 @@
+code filename to open file in vs code editor.
+
+code . to open e=whole directory in vs code editor.
+
+first switch to destination branch we are merging into. friendly
+if we have to merge ABC branch to master than first switch to master branch by using switch command or checkout command than use git merge <branch-name> that we want to merge with master branch.
+
+git branch -v flag for viewing last commit of each branch in the repository.
+
+merging branch dont delete that branch. just combine all changes in that branch.
+
+git merge not merge commits.
