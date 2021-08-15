@@ -29,3 +29,9 @@ head is like pointer.
 git branch command 
 
 we can not delete currenr branch. first we have to switch to onother branch and then delete that branch.
+
+git branch -d command for deleting branch. we can not delete current branch. but if we use git branch -D command then we can delete current branch also its force delete branch command.
+
+git branch -m command for renaming branch. m stand for move.
+
+we can only rename current branch. 
