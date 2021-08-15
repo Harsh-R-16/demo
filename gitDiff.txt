@@ -4,3 +4,5 @@ git diff command is all about showing changes in repository. git diff is Differe
 
 when we want to know changes between last commit and this commit or changes between staging area and working directory.
 changes between two files and two branches. it is all about changes and comparing changes.git status changes
+
+git commit -am or git commit -a -m
