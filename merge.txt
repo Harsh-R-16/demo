@@ -12,3 +12,27 @@ merging branch dont delete that branch. just combine all changes in that branch.
 git merge not merge commits.
 
 this is callled fast forwards merge not all merge are fast forward merges.
+
+when we are merging to some other branch then in that branch there should not be any uncommited work should there.
+
+suppose we are working on EXE branch and we want to merge it with the master branch then we have swicth or checkout to master branch and then we merge the EXE branch with the master branch bbut it is callled fast forward merge but if there is any untracked work is there then we can not merge that branch to master branch.
+
+first commit all work in there respective branch then only merge branches.
+
+first is fast forward merge and other is non fast forward merge.
+
+merge conflicts
+
+when in one branch we have added and in other branch we have delete the some work then git confused what to keep and what to delete.
+
+git try merge automatically.
+
+in some branch we delete file and in some we update same file then merge conflicts will be there.
+
+open file with merge conflicts
+edit file to remove the conflicts and decide which content you want to keep and whivh content you want to remove.
+
+remove conflicts marker in file.
+add your changes and make your commit.
+
+resoving conflicts.
