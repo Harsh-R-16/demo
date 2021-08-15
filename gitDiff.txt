@@ -6,3 +6,23 @@ when we want to know changes between last commit and this commit or changes betw
 changes between two files and two branches. it is all about changes and comparing changes.git status changes
 
 git commit -am or git commit -a -m
+
+it is git commit -am add and message.
+
+git diff command list changes in file and list changes between branches. but only unstaged or un commited.
+
+DESCRIPTION
+Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes resulting from a merge, changes between two blob objects, or changes between two files on disk.
+
+git diff --staged for viewing all staged changes. git add . karya pachi git diff --staged thi jova male changes but git diff thi kai nai jova male because changes are staged.
+
+git diff --staged is same as git diff --cached.
+
+this command is for all files change we can also go for particular file also like only changes in only this file.
+
+removed lines willl be in red color (file A) and added lines will be in green color (file B).
+
+git diff branch1..branch2 to see changes between two branches.
+git diff commit1..commit2 to see changes bettween two commits.
+git diff branch1 branch2
+git diff commit1 commit2
