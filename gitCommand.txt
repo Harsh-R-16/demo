@@ -35,7 +35,7 @@ git init will intiate new git repository where we are.
 
 git init will intiate new git repository. and create a new folder .git and it will be hidden in gui we can see only in terminal folder that start with dot is hidden folders.
 
-we ahve to write command ls -a (a for all ) to see the hidden folders.
+we have to write command ls -a (a for all ) to see the hidden folders.
 
 if we delete the .git folder than our all git history is gone. all the history is gone then we have to again create a new folder .git by git init command.
 

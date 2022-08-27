@@ -1,7 +1,7 @@
 --> first-branch
 
 most important part in git is branching.
-branching in git is same as linked list.
+branching in git is same as linked list talking about commit hash.
 
 in git every commit has one unique hash. and each commit reference one parent commit so it is like linked list. alll node refernce one parent node.
 address of parent node is pointed by each commit. first commit has none parent.
@@ -9,7 +9,7 @@ address of parent node is pointed by each commit. first commit has none parent.
 it is like linear commit one point to next one commit. 
 in real project many person working on same project so it is not possible to linear so we need braching .
 
-many person working on different featu then we need branching.
+many person working on different feature then we need branching.
 
 we can not working on linear commit in same project so we need branching in project.
 
@@ -31,7 +31,7 @@ head is like pointer.
 git branch command 
 
 <<<<<<< HEAD
-we can not delete currenr branch. first we have to switch to onother branch and then delete that branch.
+we can not delete current branch. first we have to switch to another branch and then delete that branch.
 
 git branch -d command for deleting branch. we can not delete current branch. but if we use git branch -D command then we can delete current branch also its force delete branch command.
 
